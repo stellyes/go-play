@@ -9,7 +9,7 @@ type Person struct {
 	Address string `json:"Address"`
 }
 
-func main() {
+func rwjson() {
 	myJson := `[
 		{
 			"Name": "John",

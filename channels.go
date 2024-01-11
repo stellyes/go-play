@@ -12,7 +12,7 @@ func ProcessValue(intChan chan int) {
 	intChan <- randomNumber                       // push random value into channel
 }
 
-func main() {
+func channels() {
 	// Creating a channel, recieves values to hold, in this case integers
 	intChan := make(chan int)
 	defer close(intChan)

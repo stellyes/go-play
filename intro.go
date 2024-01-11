@@ -22,7 +22,7 @@ type Chicken struct {
 	Chill bool
 }
 
-func main() {
+func intro() {
 	dog := Dog{
 		Name:  "Fido",
 		Breed: "Insert Generic Retriever",

@@ -1,0 +1,19 @@
+mode: set
+go-play/channels.go:10.37,13.2 2 0
+go-play/channels.go:15.17,24.2 5 0
+go-play/intro.go:25.14,40.2 4 0
+go-play/intro.go:42.26,44.2 1 0
+go-play/intro.go:46.29,48.2 1 0
+go-play/intro.go:50.34,52.2 1 0
+go-play/intro.go:54.33,56.2 1 0
+go-play/intro.go:58.38,60.2 1 0
+go-play/main.go:5.13,9.16 2 0
+go-play/main.go:9.16,11.3 1 0
+go-play/main.go:14.2,15.16 2 0
+go-play/main.go:15.16,17.3 1 0
+go-play/main.go:20.44,24.12 2 1
+go-play/main.go:24.12,26.3 1 1
+go-play/main.go:28.2,29.20 2 1
+go-play/rwjson.go:12.15,31.16 4 0
+go-play/rwjson.go:31.16,33.3 1 0
+go-play/rwjson.go:35.2,50.30 9 0

@@ -1,7 +1,7 @@
 package main
 
 import (
-	"learning-go/helpers"
+	"go-play/helpers"
 	"log"
 )
 
